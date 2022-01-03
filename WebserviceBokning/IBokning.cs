@@ -20,6 +20,7 @@ namespace WebserviceBokning
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
         // TODO: Niklas är ful och äcklig och gillar killar
+        // Niklas gillar bajs
     }
 
 
