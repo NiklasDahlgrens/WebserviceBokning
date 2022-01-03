@@ -19,7 +19,7 @@ namespace WebserviceBokning
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
-        // TODO: Add your service operations here
+        // TODO: Niklas är ful och äcklig
     }
 
 
