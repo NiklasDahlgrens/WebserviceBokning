@@ -29,7 +29,7 @@ namespace WebserviceBokning
     public class CompositeType
     {
         bool boolValue = true;
-        string stringValue = "HASSS ";
+        string stringValue = "HASSssdasda sdasda";
 
         [DataMember]
         public bool BoolValue
