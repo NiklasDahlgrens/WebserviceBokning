@@ -24,7 +24,7 @@ namespace WebserviceBokning
             }
             if (composite.BoolValue)
             {
-                composite.StringValue += "Suffix";
+                composite.StringValue += "Suffisasdx";
             }
             return composite;
         }
