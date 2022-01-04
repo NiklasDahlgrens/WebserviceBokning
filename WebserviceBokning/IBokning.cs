@@ -16,7 +16,7 @@ namespace WebserviceBokning
         [OperationContract]
         string GetData(int value);
 
-        [OperationContract]
+        
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
         // TODO: Niklas är ful och äcklig och gillar killar
@@ -29,7 +29,7 @@ namespace WebserviceBokning
     public class CompositeType
     {
         bool boolValue = true;
-        string stringValue = "Hello ";
+        string stringValue = "HASSS ";
 
         [DataMember]
         public bool BoolValue
