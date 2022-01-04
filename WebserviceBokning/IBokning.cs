@@ -13,9 +13,7 @@ namespace WebserviceBokning
     public interface IBokning
     {
 
-     //HALLO
-     // Algots kommentar
-     //ser ni detta?????
-     //Victor
+     //nykommentar
+
     }
 }
